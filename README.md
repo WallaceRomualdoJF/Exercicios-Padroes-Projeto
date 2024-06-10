@@ -1,4 +1,4 @@
-## Readme.md para Repositório GitHub: Desafios com Padrões de Design
+## Repositório GitHub: Desafios com Padrões de Design
 
 **Introdução**
 
